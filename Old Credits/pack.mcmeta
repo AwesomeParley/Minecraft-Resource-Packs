@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "description": "All the old credits from before the Microsoft acquisition of Mojang Studios",
+    "pack_format": 5,
+    "supported_formats": [
+      16,
+      69
+    ],
+    "min_format": 16,
+    "max_format": 69
+  }
+}

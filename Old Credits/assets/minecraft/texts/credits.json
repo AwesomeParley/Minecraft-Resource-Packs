@@ -1,0 +1,112 @@
+[
+    {
+        "section": "Minecraft Credits",
+        "disciplines": [
+            {
+                "discipline": "Minecraft",
+                "titles": [
+                    {
+                        "title": "Created by:",
+                        "names": [
+                            "Markus Persson"
+                        ]
+                    },
+                    {
+                        "title": "Game design, programming and graphics:",
+                        "names": [
+                            "Markus Persson",
+                            "Jens Bergensten",
+                            "Nathan Adams",
+                            "Ryan Holtz",
+                            "Michael Stoyke"
+                        ]
+                    },
+                    {
+                        "title": "Programming:",
+                        "names": [
+                            "Erik Broes"
+                        ]
+                    },
+                    {
+                        "title": "Music and sound:",
+                        "names": [
+                            "Daniel Rosenfeld"
+                        ]
+                    },
+                    {
+                        "title": "Ingame artwork and paintings:",
+                        "names": [
+                            "Kristoffer Zetterstrand"
+                        ]
+                    },
+                    {
+                        "title": "End game narrative:",
+                        "names": [
+                            "Julian Gough"
+                        ]
+                    },
+                    {
+                        "title": "Website development:",
+                        "names": [
+                            "Tobias Möllstam",
+                            "Daniel Frisk",
+                            "Leonard Axelsson",
+                            "Jens Bergensten",
+                            "Markus Persson"
+                        ]
+                    },
+                    {
+                        "title": "Logo and promotional artwork:",
+                        "names": [
+                            "Markus Toivonen"
+                        ]
+                    },
+                    {
+                        "title": "Business and administration:",
+                        "names": [
+                            "Carl Manneh",
+                            "Daniel Kaplan"
+                        ]
+                    },
+                    {
+                        "title": "Director of fun:",
+                        "names": [
+                            "Lydia Winters"
+                        ]
+                    },
+                    {
+                        "title": "Number crunching and statistics:",
+                        "names": [
+                            "Patrick Geuder"
+                        ]
+                    },
+                    {
+                        "title": "Additional programming:",
+                        "names": [
+                            "Paul Spooner",
+                            "Ryan 'Scaevolus' Hitchman",
+                            "Elliot 'Hippoplatimus' Segal"
+                        ]
+                    },
+                    {
+                        "title": "Developers of Mo' Creatures (horses etc):",
+                        "names": [
+                            "John Olarte (DrZhark)",
+                            "Kent Christian Jensen",
+                            "Dan Roque"
+                        ]
+                    },
+                    {
+                        "title": "Technologies used:",
+                        "names": [
+                            "Java by Oracle",
+                            "LWJGL by many talented people",
+                            "\"3d Sound System\" by Paul Lamb",
+                            "JOrbis by JCraft"
+                        ]
+                    }
+                ]
+            } 
+        ]
+    }
+]

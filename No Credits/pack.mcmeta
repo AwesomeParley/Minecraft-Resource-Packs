@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 16,
+    "supported_formats": [16, 64],
+    "min_format": 16,
+    "max_format": 69,
+    "description": "All credits are GONE."
+  }
+}
